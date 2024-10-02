@@ -1,0 +1,146 @@
+2024-10-02 15:37:28,756 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2024-10-02 15:37:28,772 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.jar
+2024-10-02 15:37:28,786 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2024-10-02 15:37:28,795 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-webapp/1.0/maven-archetype-webapp-1.0.pom
+2024-10-02 15:38:56,034 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\pom.xml
+2024-10-02 15:38:57,060 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.maven.farmacia:ProyectoJPAMavenMiercolesTarde:0.0.1-SNAPSHOT @ D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\pom.xml.
+2024-10-02 15:38:57,855 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProyectoJPAMavenMiercolesTarde/src/main/java
+2024-10-02 15:38:57,856 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProyectoJPAMavenMiercolesTarde/src/main/resources
+2024-10-02 15:38:57,856 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProyectoJPAMavenMiercolesTarde/src/test/java
+2024-10-02 15:38:59,461 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
+2024-10-02 15:38:59,471 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.pom
+2024-10-02 15:38:59,562 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2024-10-02 15:38:59,920 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:38:59,927 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 15:38:59,929 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:38:59,930 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 15:39:00,449 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:39:00,451 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 15:39:00,452 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:39:00,452 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 15:45:10,205 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:45:10,206 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 15:45:10,207 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:45:10,208 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 15:45:54,471 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:45:54,472 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 15:45:54,472 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:45:54,472 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 15:54:18,417 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-02 15:54:19,122 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.maven.farmacia:ProyectoJPAMavenMiercolesTarde:0.0.1-SNAPSHOT @ D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\pom.xml.
+2024-10-02 15:54:19,785 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProyectoJPAMavenMiercolesTarde/src/main/java
+2024-10-02 15:54:19,785 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProyectoJPAMavenMiercolesTarde/src/main/resources
+2024-10-02 15:54:19,786 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProyectoJPAMavenMiercolesTarde/src/test/java
+2024-10-02 15:54:20,038 [Worker-38] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ProyectoJPAMavenMiercolesTarde
+2024-10-02 15:54:20,046 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-10-02 15:54:20,272 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:54:20,274 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 15:54:20,275 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:54:20,276 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 15:54:20,276 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ProyectoJPAMavenMiercolesTarde
+2024-10-02 15:54:20,280 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ProyectoJPAMavenMiercolesTarde
+2024-10-02 15:54:20,284 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:54:25,028 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.maven.farmacia:ProyectoJPAMavenMiercolesTarde:0.0.1-SNAPSHOT @ D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\pom.xml.
+2024-10-02 15:54:25,120 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2024-10-02 15:54:25,135 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2024-10-02 15:54:25,147 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2024-10-02 15:54:25,158 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2024-10-02 15:54:25,170 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar
+2024-10-02 15:54:25,199 [Worker-39] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar
+2024-10-02 15:54:25,818 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:54:25,820 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 15:54:25,822 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:54:25,823 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 15:54:25,824 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ProyectoJPAMavenMiercolesTarde
+2024-10-02 15:54:25,824 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ProyectoJPAMavenMiercolesTarde
+2024-10-02 15:54:25,828 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:54:26,904 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:54:26,905 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 15:54:26,906 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:54:26,907 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 15:59:36,829 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-02 15:59:37,216 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.maven.farmacia:ProyectoJPAMavenMiercolesTarde:0.0.1-SNAPSHOT @ D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\pom.xml.
+2024-10-02 15:59:37,691 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProyectoJPAMavenMiercolesTarde/src/main/java
+2024-10-02 15:59:37,691 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProyectoJPAMavenMiercolesTarde/src/main/resources
+2024-10-02 15:59:37,692 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProyectoJPAMavenMiercolesTarde/src/test/java
+2024-10-02 15:59:38,024 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ProyectoJPAMavenMiercolesTarde
+2024-10-02 15:59:38,029 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-10-02 15:59:38,219 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:59:38,220 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 15:59:38,221 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 15:59:38,221 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 15:59:38,222 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ProyectoJPAMavenMiercolesTarde
+2024-10-02 15:59:38,222 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ProyectoJPAMavenMiercolesTarde
+2024-10-02 15:59:38,224 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:03:30,246 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-02 16:03:30,636 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.maven.farmacia:ProyectoJPAMavenMiercolesTarde:0.0.1-SNAPSHOT @ D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\pom.xml.
+2024-10-02 16:03:31,141 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProyectoJPAMavenMiercolesTarde/src/main/java
+2024-10-02 16:03:31,142 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProyectoJPAMavenMiercolesTarde/src/main/resources
+2024-10-02 16:03:31,142 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProyectoJPAMavenMiercolesTarde/src/test/java
+2024-10-02 16:03:31,532 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ProyectoJPAMavenMiercolesTarde
+2024-10-02 16:03:31,537 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-10-02 16:03:31,691 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:03:31,692 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 16:03:31,693 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:03:31,694 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 16:03:31,694 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ProyectoJPAMavenMiercolesTarde
+2024-10-02 16:03:31,694 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ProyectoJPAMavenMiercolesTarde
+2024-10-02 16:03:31,698 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:03:37,936 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.maven.farmacia:ProyectoJPAMavenMiercolesTarde:0.0.1-SNAPSHOT @ D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\pom.xml.
+2024-10-02 16:03:38,169 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.pom
+2024-10-02 16:03:38,279 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.pom
+2024-10-02 16:03:38,290 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.pom
+2024-10-02 16:03:38,303 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.pom
+2024-10-02 16:03:38,314 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.19.4/protobuf-parent-3.19.4.pom
+2024-10-02 16:03:38,339 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.19.4/protobuf-parent-3.19.4.pom
+2024-10-02 16:03:38,352 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.19.4/protobuf-bom-3.19.4.pom
+2024-10-02 16:03:38,361 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.19.4/protobuf-bom-3.19.4.pom
+2024-10-02 16:03:38,376 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar
+2024-10-02 16:03:38,678 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar
+2024-10-02 16:03:38,682 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar
+2024-10-02 16:03:39,059 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar
+2024-10-02 16:03:39,828 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:03:39,830 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 16:03:39,832 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:03:39,832 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 16:03:39,833 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ProyectoJPAMavenMiercolesTarde
+2024-10-02 16:03:39,833 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ProyectoJPAMavenMiercolesTarde
+2024-10-02 16:03:39,837 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:03:41,342 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:03:41,344 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 16:03:41,345 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:03:41,346 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 16:11:06,485 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-10-02 16:11:06,877 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.maven.farmacia:ProyectoJPAMavenMiercolesTarde:0.0.1-SNAPSHOT @ D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\pom.xml.
+2024-10-02 16:11:07,507 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProyectoJPAMavenMiercolesTarde/src/main/java
+2024-10-02 16:11:07,507 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProyectoJPAMavenMiercolesTarde/src/main/resources
+2024-10-02 16:11:07,508 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProyectoJPAMavenMiercolesTarde/src/test/java
+2024-10-02 16:11:07,840 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ProyectoJPAMavenMiercolesTarde
+2024-10-02 16:11:07,843 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2024-10-02 16:11:08,217 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:11:08,218 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 16:11:08,219 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:11:08,220 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 16:11:08,220 [Worker-70] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ProyectoJPAMavenMiercolesTarde
+2024-10-02 16:11:08,220 [Worker-70] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ProyectoJPAMavenMiercolesTarde
+2024-10-02 16:11:08,222 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:13:54,798 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:13:54,801 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 16:13:54,801 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:13:54,802 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 16:17:34,546 [Worker-71] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.maven.farmacia:ProyectoJPAMavenMiercolesTarde:0.0.1-SNAPSHOT @ D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\pom.xml.
+2024-10-02 16:17:35,047 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:17:35,048 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 16:17:35,049 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:17:35,050 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 16:17:35,050 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ProyectoJPAMavenMiercolesTarde
+2024-10-02 16:17:35,050 [Worker-71] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ProyectoJPAMavenMiercolesTarde
+2024-10-02 16:17:35,052 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:18:22,921 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.maven.farmacia:ProyectoJPAMavenMiercolesTarde:0.0.1-SNAPSHOT @ D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\pom.xml.
+2024-10-02 16:18:23,473 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:18:23,474 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2024-10-02 16:18:23,475 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-10-02 16:18:23,475 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\workspace2024\proyectomavenGitSemana4\ProyectoJPAMavenMiercolesTarde\src\test\resources
+2024-10-02 16:18:23,475 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ProyectoJPAMavenMiercolesTarde
+2024-10-02 16:18:23,475 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ProyectoJPAMavenMiercolesTarde
+2024-10-02 16:18:23,478 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
